@@ -40,7 +40,7 @@
 
 ### 📊 GitHub Stats
 
-![Satya Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyaflux&show_icons=true&theme=radical)
+![Satya Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=SatyaFlux&show_icons=true&theme=radical)
 
 ---
 
