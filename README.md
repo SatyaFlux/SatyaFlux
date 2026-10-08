@@ -100,6 +100,43 @@ A modern animated developer portfolio showcasing my skills, projects, experience
 </p>
 
 ---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SatyaFlux&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyaFlux&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SatyaFlux&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyaFlux&theme=react-dark&hide_border=true" width="95%" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SatyaFlux/SatyaFlux/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SatyaFlux/SatyaFlux/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/SatyaFlux/SatyaFlux/output/github-snake.svg"
+      alt="GitHub contribution snake animation"
+    />
+  </picture>
+</p>
 
 ## 🎯 Current Focus
 
